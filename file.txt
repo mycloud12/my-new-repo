@@ -1,1 +1,3 @@
-Let's see if works
+A file with
+some lines of 
+text.
