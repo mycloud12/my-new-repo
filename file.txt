@@ -9,3 +9,5 @@ Found by mx hostname: >>>loti3.papierkorb.me<<<
 oida.icu
 Found by mx hostname: >>>mail.rainmail.xyz<<<
 imgrpost.xyz
+Found by mx hostname: >>>mail.temporary-mail.net<<<
+temporary-mail.net
