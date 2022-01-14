@@ -7,3 +7,5 @@ Found by mx hostname: >>>generator.email<<<
 coffeepancakewafflebacon.com
 Found by mx hostname: >>>loti3.papierkorb.me<<<
 oida.icu
+Found by mx hostname: >>>mail.rainmail.xyz<<<
+imgrpost.xyz
