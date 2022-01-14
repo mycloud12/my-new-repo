@@ -13,3 +13,5 @@ imgrpost.xyz
 oida.icu
 #Found by mx ip reverse dns: >>>www.onetime-mail.com<<<
 onetm.jp
+#Found by mx ip reverse dns: >>>mail.tryninja.io<<<
+nicoric.com
