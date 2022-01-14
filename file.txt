@@ -2,23 +2,3 @@ A file with
 some lines of 
 text.
 Let's see if works
-Found by mx hostname: >>>generator.email<<<
-coffeepancakewafflebacon.com
-Found by mx hostname: >>>mail.temporary-mail.net<<<
-temporary-mail.net
-Found by mx hostname: >>>mail.rainmail.xyz<<<
-imgrpost.xyz
-Found by mx hostname: >>>loti3.papierkorb.me<<<
-oida.icu
-Found by mx ip reverse dns: >>>www.onetime-mail.com<<<
-onetm.jp
-Found by mx ip reverse dns: >>>www.onetime-mail.com<<<
-onetm.jp
-Found by mx ip reverse dns: >>>mail.tryninja.io<<<
-nicoric.com
-Found by mx ip reverse dns: >>>mail.tryninja.io<<<
-nicoric.com
-Found by mx ip reverse dns: >>>dropmail.me<<<
-spymail.one
-Found by mx ip reverse dns: >>>dropmail.me<<<
-spymail.one
