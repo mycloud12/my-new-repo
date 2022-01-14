@@ -5,3 +5,5 @@ Let's see if works
 
 #Found by mx hostname: >>>generator.email<<<
 coffeepancakewafflebacon.com
+#Found by mx hostname: >>>mail.temporary-mail.net<<<
+temporary-mail.net
