@@ -17,3 +17,5 @@ onetm.jp
 nicoric.com
 #Found by mx ip reverse dns: >>>dropmail.me<<<
 spymail.one
+#Found by mx ip reverse dns: >>>server.tempmailme.com<<<
+dgzlweb.com
