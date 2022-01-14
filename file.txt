@@ -12,3 +12,5 @@ Found by mx hostname: >>>loti3.papierkorb.me<<<
 oida.icu
 Found by mx ip reverse dns: >>>www.onetime-mail.com<<<
 onetm.jp
+Found by mx ip reverse dns: >>>www.onetime-mail.com<<<
+onetm.jp
