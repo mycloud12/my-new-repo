@@ -20,3 +20,5 @@ Found by mx ip reverse dns: >>>mail.tryninja.io<<<
 nicoric.com
 Found by mx ip reverse dns: >>>dropmail.me<<<
 spymail.one
+Found by mx ip reverse dns: >>>dropmail.me<<<
+spymail.one
