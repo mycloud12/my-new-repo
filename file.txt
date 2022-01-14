@@ -5,3 +5,5 @@ Let's see if works
 
 Found by mx hostname: >>>generator.email<<<
 coffeepancakewafflebacon.com
+Found by mx hostname: >>>loti3.papierkorb.me<<<
+oida.icu
