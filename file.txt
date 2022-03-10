@@ -4,3 +4,5 @@
 coffeepancakewafflebacon.com
 #Found by mx hostname: >>>mail.temporary-mail.net<<<
 temporary-mail.net
+#Found by mx hostname: >>>mail.rainmail.xyz<<<
+imgrpost.xyz
